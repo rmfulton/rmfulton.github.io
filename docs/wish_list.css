@@ -1,0 +1,27 @@
+.button {
+    background-color:#ffeb3b;
+}
+.books,.clothes,.skills, .misc {
+    padding-left: 2em;
+}
+
+.credits{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.people{
+    display:block;
+}
+
+body {
+    background-color:burlywood;
+    color:black
+}
+h1,h2,h3,h4{
+    color:#3F51B5
+}
+
+ul {
+    list-style: none;
+}
